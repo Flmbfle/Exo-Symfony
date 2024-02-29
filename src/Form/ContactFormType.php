@@ -16,6 +16,7 @@ class ContactFormType extends AbstractType
     {
         $builder
             ->add('objet')
+            
             ->add('email', EmailType::class, [
                 'label' => 'Votre Email'
                 ]

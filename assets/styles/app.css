@@ -1,6 +1,6 @@
 body {
     background-color: #222222;
 }
-h1, p {
+h1, p, form label {
     color: #c9c9c9;
 }
